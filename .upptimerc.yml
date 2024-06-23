@@ -28,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ssrq-sds-fds.ch
   #baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/SSRQ-SDS-FDS/ssrq-uptime/blob/0cc813ac056da82664641648779ffb11dace6de8/assets/SSRQ-2020-512.png?raw=true
   name: SSRQ Service Monitoring
   introTitle: "SSRQ Services – Status"
   introMessage: Simple Status Monitoring powered by [Upptime](https://upptime.js.org)
