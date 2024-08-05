@@ -22,10 +22,10 @@
     "url": "https://editio.ssrq-online.ch",
     "icon": "https://icons.duckduckgo.com/ip3/editio.ssrq-online.ch.ico",
     "slug": "editio-the-digital-scholarly-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2057,
@@ -33,7 +33,9 @@
     "timeWeek": 2187,
     "timeMonth": 2100,
     "timeYear": 2057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 2
+    }
   },
   {
     "name": "IIIF Server",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.77%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 1007,
     "timeDay": 996,
     "timeWeek": 995,
     "timeMonth": 1019,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-08-05": 0,
+      "2024-08-05": 100,
       "2024-07-02": 4,
       "2024-06-25": 36
     }
