@@ -118,18 +118,20 @@
     "url": "https://www.ssrq-sds-fds.ch/lemma-db-edit/search/search-form.xq",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-lemma-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 716,
-    "timeWeek": 732,
-    "timeMonth": 707,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "time": 692,
+    "timeDay": 420,
+    "timeWeek": 656,
+    "timeMonth": 688,
+    "timeYear": 692,
+    "dailyMinutesDown": {
+      "2024-08-13": 0
+    }
   },
   {
     "name": "SSRQ Index Application",
