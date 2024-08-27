@@ -4,36 +4,39 @@
     "url": "http://ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/ssrq-sds-fds.ch.ico",
     "slug": "ssrq-project-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1512,
     "timeDay": 1411,
     "timeWeek": 1520,
-    "timeMonth": 1558,
+    "timeMonth": 1567,
     "timeYear": 1512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-27": 3
+    }
   },
   {
     "name": "Editio – the digital scholarly edition",
     "url": "https://editio.ssrq-online.ch",
     "icon": "https://icons.duckduckgo.com/ip3/editio.ssrq-online.ch.ico",
     "slug": "editio-the-digital-scholarly-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 2051,
     "timeDay": 1622,
     "timeWeek": 1926,
-    "timeMonth": 2064,
+    "timeMonth": 2068,
     "timeYear": 2051,
     "dailyMinutesDown": {
+      "2024-08-27": 2,
       "2024-08-05": 16
     }
   },
@@ -78,10 +81,10 @@
     "url": "https://www.ssrq-sds-fds.ch/persons-db-edit/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.83%",
     "time": 995,
@@ -90,6 +93,7 @@
     "timeMonth": 985,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2024-08-27": 2,
       "2024-08-05": 114,
       "2024-07-02": 4,
       "2024-06-25": 36
@@ -100,10 +104,10 @@
     "url": "https://www.ssrq-sds-fds.ch/places-db-edit/search/search-form.xq",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-places-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 447,
@@ -111,17 +115,19 @@
     "timeWeek": 446,
     "timeMonth": 460,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-27": 1
+    }
   },
   {
     "name": "SSRQ LemmaDB",
     "url": "https://www.ssrq-sds-fds.ch/lemma-db-edit/search/search-form.xq",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-lemma-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 697,
@@ -130,6 +136,7 @@
     "timeMonth": 696,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2024-08-27": 1,
       "2024-08-13": 25
     }
   },
@@ -138,9 +145,9 @@
     "url": "https://index.ssrq-online.ch/persons/A_Z.html",
     "icon": "https://icons.duckduckgo.com/ip3/index.ssrq-online.ch.ico",
     "slug": "ssrq-index-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +156,9 @@
     "timeWeek": 4050,
     "timeMonth": 4022,
     "timeYear": 3955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "Preview App",
