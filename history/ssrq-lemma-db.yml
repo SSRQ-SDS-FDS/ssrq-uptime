@@ -1,7 +1,7 @@
 url: https://www.ssrq-sds-fds.ch/lemma-db-edit/search/search-form.xq
-status: up
-code: 200
-responseTime: 689
-lastUpdated: 2024-08-28T19:46:08.620Z
+status: down
+code: 400
+responseTime: 130
+lastUpdated: 2024-08-28T20:18:24.469Z
 startTime: 2024-06-23T16:47:02.843Z
 generator: Upptime <https://github.com/upptime/upptime>
