@@ -18,8 +18,6 @@ sites:
     url: https://www.ssrq-sds-fds.ch/places-db-edit/search/search-form.xq
   - name: SSRQ LemmaDB
     url: https://www.ssrq-sds-fds.ch/lemma-db-edit/search/search-form.xq
-  - name: SSRQ Index Application
-    url: https://index.ssrq-online.ch/persons/A_Z.html
   - name: Preview App
     url: https://preview.ssrq-online.ch
 
