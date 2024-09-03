@@ -23,6 +23,7 @@ sites:
   - name: Resolver for permanent links
     url: https://p.ssrq-sds-fds.ch/loc123456
     expectedStatusCodes:
+      - 200
       - 301
 
 status-website:
