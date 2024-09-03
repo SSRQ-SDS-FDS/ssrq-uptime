@@ -21,7 +21,7 @@ sites:
   - name: Preview App
     url: https://preview.ssrq-online.ch
   - name: Resolver for permanent links
-    url: https://p.ssrq-online.ch/loc123456
+    url: https://p.ssrq-sds-fds.ch/loc123456
     expectedStatusCodes:
       - 301
 
