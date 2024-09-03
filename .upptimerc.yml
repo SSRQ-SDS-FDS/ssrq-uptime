@@ -20,6 +20,10 @@ sites:
     url: https://www.ssrq-sds-fds.ch/lemma-db-edit/search/search-form.xq
   - name: Preview App
     url: https://preview.ssrq-online.ch
+  - name: Resolver for permanent links
+    url: https://p.ssrq-online.ch/loc123456
+    expectedStatusCodes:
+      - 301
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
