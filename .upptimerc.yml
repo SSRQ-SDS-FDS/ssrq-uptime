@@ -15,9 +15,9 @@ sites:
   - name: SSRQ PersonsDB
     url: https://www.ssrq-sds-fds.ch/persons-db-edit/
   - name: SSRQ PlacesDB
-    url: https://www.ssrq-sds-fds.ch/places-db-edit/search/search-form.xq
+    url: https://loci.ssrq-sds-fds.ch/search/search-form.xq
   - name: SSRQ LemmaDB
-    url: https://www.ssrq-sds-fds.ch/lemma-db-edit/search/search-form.xq
+    url: https://termini.ssrq-sds-fds.ch/search/search-form.xq
   - name: Preview App
     url: https://preview.ssrq-online.ch
   - name: Resolver for permanent links
