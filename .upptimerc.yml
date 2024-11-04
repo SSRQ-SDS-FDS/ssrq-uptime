@@ -14,7 +14,7 @@ sites:
   - name: Schema
     url: https://schema.ssrq-sds-fds.ch/latest/
   - name: SSRQ PersonsDB
-    url: https://www.ssrq-sds-fds.ch/persons-db-edit/
+    url: https://personae.ssrq-sds-fds.ch
   - name: SSRQ PlacesDB
     url: https://loci.ssrq-sds-fds.ch/search/search-form.xq
   - name: SSRQ LemmaDB
