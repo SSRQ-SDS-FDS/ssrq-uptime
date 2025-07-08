@@ -19,8 +19,6 @@ sites:
     url: https://loci.ssrq-sds-fds.ch/search/search-form.xq
   - name: SSRQ LemmaDB
     url: https://termini.ssrq-sds-fds.ch/search/search-form.xq
-  - name: Preview App
-    url: https://preview.ssrq-online.ch
   - name: Resolver for permanent links
     url: https://p.ssrq-sds-fds.ch/loc123456
     expectedStatusCodes:
