@@ -9,6 +9,10 @@ sites:
     url: http://ssrq-sds-fds.ch
   - name: Editio – the digital scholarly edition
     url: https://editio.ssrq-online.ch
+  - name: Editio Staging – the next version of Editio
+    url: https://staging.editio.ssrq-online.ch/
+  - name: SSRQ Online – retrodigitized sources
+    url: https://www.ssrq-sds-fds.ch/online/cantons.html
   - name: IIIF Server
     url: https://facsimiles.ssrq-sds-fds.ch/iiif/2/ADCO_BII_8_19_1r.ptif/info.json
   - name: Schema
