@@ -10,6 +10,7 @@ sites:
     url: https://editio.ssrq-online.ch
   - name: Editio Staging – the next version of Editio
     url: https://staging.editio.ssrq-online.ch/
+    maxResponseTime: 45000
   - name: SSRQ Online – retrodigitized sources
     url: https://www.ssrq-sds-fds.ch/online/cantons.html
   - name: IIIF Server
@@ -23,10 +24,8 @@ sites:
   - name: SSRQ LemmaDB
     url: https://termini.ssrq-sds-fds.ch/search/search-form.xq
   - name: Resolver for permanent links
-    url: https://p.ssrq-sds-fds.ch/loc123456
-    expectedStatusCodes:
-      - 200
-      - 301
+    url: https://p.ssrq-sds-fds.ch/loc000001
+    maxResponseTime: 45000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
