@@ -35,9 +35,9 @@
     "slug": "editio-the-digital-scholarly-edition",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "95.04%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.58%",
     "time": 1986,
     "timeDay": 4386,
@@ -45,7 +45,7 @@
     "timeMonth": 4455,
     "timeYear": 2069,
     "dailyMinutesDown": {
-      "2025-11-06": 72,
+      "2025-11-06": 60,
       "2025-11-05": 112,
       "2025-11-04": 86,
       "2025-11-03": 50,
@@ -191,8 +191,7 @@
       "2024-11-22": 776,
       "2024-11-21": 290,
       "2024-11-19": 19,
-      "2024-11-08": 793,
-      "2024-11-07": 1063
+      "2024-11-08": 793
     }
   },
   {
@@ -254,7 +253,7 @@
     "uptimeYear": "99.28%",
     "time": 2003,
     "timeDay": 1083,
-    "timeWeek": 2544,
+    "timeWeek": 2580,
     "timeMonth": 2274,
     "timeYear": 2046,
     "dailyMinutesDown": {
