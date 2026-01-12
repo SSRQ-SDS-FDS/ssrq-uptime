@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssrq-sds-fds.ch.ico",
     "slug": "ssrq-project-website",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -70,9 +70,9 @@
     "url": "https://staging.editio.ssrq-online.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/staging.editio.ssrq-online.ch.ico",
     "slug": "editio-staging-the-next-version-of-editio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -82,6 +82,7 @@
     "timeMonth": 865,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2025-12-03": 38
     }
   },
@@ -147,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
