@@ -10,18 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1404,
-    "timeDay": 1438,
-    "timeWeek": 1176,
-    "timeMonth": 1229,
-    "timeYear": 1277,
+    "time": 1402,
+    "timeDay": 1055,
+    "timeWeek": 1188,
+    "timeMonth": 1232,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2025-02-20": 15,
       "2025-02-17": 18,
       "2025-02-15": 8,
       "2025-02-13": 26,
-      "2025-02-11": 11,
-      "2025-02-08": 11
+      "2025-02-11": 11
     }
   },
   {
@@ -35,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 2067,
-    "timeDay": 1486,
-    "timeWeek": 1343,
-    "timeMonth": 1354,
+    "time": 2068,
+    "timeDay": 1091,
+    "timeWeek": 1331,
+    "timeMonth": 1347,
     "timeYear": 2231,
     "dailyMinutesDown": {
       "2025-12-08": 273,
@@ -75,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 891,
-    "timeDay": 1423,
-    "timeWeek": 964,
+    "time": 890,
+    "timeDay": 691,
+    "timeWeek": 993,
     "timeMonth": 907,
-    "timeYear": 891,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2026-01-12": 28,
       "2025-12-03": 38
@@ -96,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 887,
-    "timeWeek": 880,
-    "timeMonth": 903,
-    "timeYear": 890,
+    "time": 889,
+    "timeDay": 675,
+    "timeWeek": 877,
+    "timeMonth": 901,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   },
   {
@@ -115,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
-    "timeDay": 983,
-    "timeWeek": 702,
-    "timeMonth": 648,
-    "timeYear": 617,
+    "timeDay": 495,
+    "timeWeek": 715,
+    "timeMonth": 647,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-02-09": 11
     }
@@ -135,8 +134,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 234,
-    "timeWeek": 323,
+    "timeDay": 281,
+    "timeWeek": 326,
     "timeMonth": 314,
     "timeYear": 332,
     "dailyMinutesDown": {}
@@ -147,15 +146,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
     "status": "up",
-    "uptime": "96.98%",
+    "uptime": "96.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.39%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "97.95%",
     "time": 1034,
-    "timeDay": 1278,
-    "timeWeek": 1069,
-    "timeMonth": 1158,
+    "timeDay": 900,
+    "timeWeek": 1071,
+    "timeMonth": 1152,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2026-02-02": 263,
@@ -197,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 942,
-    "timeDay": 1042,
-    "timeWeek": 1071,
-    "timeMonth": 1038,
+    "timeDay": 870,
+    "timeWeek": 1075,
+    "timeMonth": 1022,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2025-11-03": 26,
@@ -212,15 +211,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/termini.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-lemma-db",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1341,
-    "timeDay": 1694,
-    "timeWeek": 1657,
-    "timeMonth": 1559,
+    "timeDay": 1299,
+    "timeWeek": 1612,
+    "timeMonth": 1556,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2025-07-22": 99
@@ -237,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 1885,
-    "timeDay": 1121,
-    "timeWeek": 1001,
-    "timeMonth": 1061,
-    "timeYear": 1903,
+    "time": 1884,
+    "timeDay": 743,
+    "timeWeek": 969,
+    "timeMonth": 1045,
+    "timeYear": 1901,
     "dailyMinutesDown": {
       "2025-12-24": 44,
       "2025-11-04": 26,
@@ -275,8 +274,7 @@
       "2025-02-17": 17,
       "2025-02-15": 8,
       "2025-02-13": 25,
-      "2025-02-11": 10,
-      "2025-02-08": 11
+      "2025-02-11": 10
     }
   }
 ]
