@@ -62,9 +62,9 @@
     "url": "https://staging.editio.ssrq-online.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/staging.editio.ssrq-online.ch.ico",
     "slug": "editio-staging-the-next-version-of-editio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -74,6 +74,7 @@
     "timeMonth": 815,
     "timeYear": 871,
     "dailyMinutesDown": {
+      "2026-04-08": 0,
       "2026-01-12": 28,
       "2025-12-03": 38
     }
