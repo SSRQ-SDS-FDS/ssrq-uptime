@@ -4,19 +4,20 @@
     "url": "http://ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/ssrq-sds-fds.ch.ico",
     "slug": "ssrq-project-website",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
-    "time": 1229,
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.98%",
+    "time": 1228,
     "timeDay": 1499,
     "timeWeek": 1240,
     "timeMonth": 1177,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2026-05-22": 66
+      "2026-05-22": 66,
+      "2026-06-07": 39
     }
   },
   {
@@ -24,13 +25,13 @@
     "url": "https://editio.ssrq-online.ch",
     "icon": "https://icons.duckduckgo.com/ip3/editio.ssrq-online.ch.ico",
     "slug": "editio-the-digital-scholarly-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.42%",
-    "time": 2039,
+    "time": 2041,
     "timeDay": 944,
     "timeWeek": 885,
     "timeMonth": 848,
@@ -59,7 +60,8 @@
       "2026-03-28": 87,
       "2026-04-25": 4,
       "2026-04-24": 13,
-      "2026-05-22": 66
+      "2026-05-22": 66,
+      "2026-06-07": 34
     }
   },
   {
@@ -67,11 +69,11 @@
     "url": "https://staging.editio.ssrq-online.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/staging.editio.ssrq-online.ch.ico",
     "slug": "editio-staging-the-next-version-of-editio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
     "time": 862,
     "timeDay": 962,
@@ -84,7 +86,8 @@
       "2026-04-08": 55,
       "2026-04-18": 20,
       "2026-04-20": 29,
-      "2026-05-22": 66
+      "2026-05-22": 66,
+      "2026-06-07": 29
     }
   },
   {
@@ -92,11 +95,11 @@
     "url": "https://www.ssrq-sds-fds.ch/online/cantons.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-online-retrodigitized-sources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 861,
     "timeDay": 956,
@@ -104,7 +107,8 @@
     "timeMonth": 837,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2026-05-22": 65
+      "2026-05-22": 65,
+      "2026-06-07": 25
     }
   },
   {
@@ -112,19 +116,20 @@
     "url": "https://facsimiles.ssrq-sds-fds.ch/iiif/2/ADCO_BII_8_19_1r.ptif/info.json",
     "icon": "https://icons.duckduckgo.com/ip3/facsimiles.ssrq-sds-fds.ch.ico",
     "slug": "iiif-server",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 612,
     "timeDay": 788,
     "timeWeek": 671,
     "timeMonth": 611,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2026-05-22": 65
+      "2026-05-22": 65,
+      "2026-06-07": 20
     }
   },
   {
@@ -150,12 +155,12 @@
     "url": "https://personae.ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
-    "status": "up",
+    "status": "down",
     "uptime": "97.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "98.63%",
     "time": 1079,
     "timeDay": 1167,
     "timeWeek": 1019,
@@ -184,7 +189,8 @@
       "2026-03-30": 152,
       "2026-04-17": 174,
       "2026-05-22": 65,
-      "2026-06-01": 222
+      "2026-06-01": 222,
+      "2026-06-07": 15
     }
   },
   {
@@ -192,11 +198,11 @@
     "url": "https://loci.ssrq-sds-fds.ch/search/search-form.xq",
     "icon": "https://icons.duckduckgo.com/ip3/loci.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-places-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
     "time": 935,
     "timeDay": 976,
@@ -206,7 +212,8 @@
     "dailyMinutesDown": {
       "2025-07-22": 99,
       "2025-11-03": 26,
-      "2026-05-22": 65
+      "2026-05-22": 65,
+      "2026-06-07": 10
     }
   },
   {
@@ -214,20 +221,21 @@
     "url": "https://termini.ssrq-sds-fds.ch/search/search-form.xq",
     "icon": "https://icons.duckduckgo.com/ip3/termini.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-lemma-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
-    "time": 1347,
+    "time": 1346,
     "timeDay": 1358,
     "timeWeek": 1438,
     "timeMonth": 1333,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-07-22": 99,
-      "2026-05-22": 65
+      "2026-05-22": 65,
+      "2026-06-07": 5
     }
   },
   {
@@ -235,9 +243,9 @@
     "url": "https://p.ssrq-sds-fds.ch/loc000001",
     "icon": "https://icons.duckduckgo.com/ip3/p.ssrq-sds-fds.ch.ico",
     "slug": "resolver-for-permanent-links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.41%",
@@ -264,7 +272,8 @@
       "2025-11-03": 90,
       "2025-11-04": 26,
       "2025-12-24": 44,
-      "2026-05-22": 64
+      "2026-05-22": 64,
+      "2026-06-07": 0
     }
   }
 ]
