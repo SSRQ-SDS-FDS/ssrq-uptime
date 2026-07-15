@@ -153,13 +153,13 @@
     "url": "https://personae.ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
-    "status": "up",
+    "status": "down",
     "uptime": "97.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.73%",
-    "time": 1071,
+    "time": 1070,
     "timeDay": 829,
     "timeWeek": 891,
     "timeMonth": 915,
@@ -187,7 +187,8 @@
       "2026-06-07": 17,
       "2026-06-23": 526,
       "2026-06-22": 193,
-      "2026-06-29": 208
+      "2026-06-29": 208,
+      "2026-07-15": 0
     }
   },
   {
@@ -218,7 +219,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/termini.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-lemma-db",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
