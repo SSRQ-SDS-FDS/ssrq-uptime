@@ -66,16 +66,16 @@
     "url": "https://staging.editio.ssrq-online.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/staging.editio.ssrq-online.ch.ico",
     "slug": "editio-staging-the-next-version-of-editio",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.91%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.89%",
     "time": 1242,
-    "timeDay": 8711,
-    "timeWeek": 9859,
-    "timeMonth": 4758,
+    "timeDay": 6179,
+    "timeWeek": 9064,
+    "timeMonth": 4651,
     "timeYear": 1242,
     "dailyMinutesDown": {
       "2025-12-03": 38,
@@ -86,7 +86,7 @@
       "2026-05-22": 66,
       "2026-06-07": 31,
       "2026-07-13": 157,
-      "2026-07-19": 0
+      "2026-07-19": 82
     }
   },
   {
