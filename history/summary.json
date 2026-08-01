@@ -25,17 +25,17 @@
     "url": "https://editio.ssrq-online.ch",
     "icon": "https://icons.duckduckgo.com/ip3/editio.ssrq-online.ch.ico",
     "slug": "editio-the-digital-scholarly-edition",
-    "status": "down",
+    "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.62%",
-    "time": 1982,
-    "timeDay": 1568,
-    "timeWeek": 2144,
-    "timeMonth": 1336,
-    "timeYear": 2236,
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.61%",
+    "time": 1981,
+    "timeDay": 1447,
+    "timeWeek": 2065,
+    "timeMonth": 1327,
+    "timeYear": 2233,
     "dailyMinutesDown": {
       "2025-09-06": 58,
       "2025-09-09": 34,
@@ -61,7 +61,7 @@
       "2026-06-07": 36,
       "2026-07-30": 97,
       "2026-07-31": 78,
-      "2026-08-01": 83
+      "2026-08-01": 144
     }
   },
   {
