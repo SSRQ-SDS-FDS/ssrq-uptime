@@ -1,7 +1,7 @@
 url: https://editio.ssrq-online.ch
-status: up
-code: 200
-responseTime: 4345
-lastUpdated: 2026-08-01T19:38:27.248Z
+status: down
+code: 429
+responseTime: 603
+lastUpdated: 2026-08-01T21:31:50.546Z
 startTime: 2024-06-23T16:46:56.116Z
 generator: Upptime <https://github.com/upptime/upptime>
