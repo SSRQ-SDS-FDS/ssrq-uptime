@@ -8,6 +8,9 @@ sites:
     url: http://ssrq-sds-fds.ch
   - name: Editio – the digital scholarly edition
     url: https://editio.ssrq-online.ch
+  - name: Editio API
+    url: https://editio.ssrq-online.ch/api/v1/entities/lemmata/lem035856
+    maxResponseTime: 45000
   - name: Editio Staging – the next version of Editio
     url: https://staging.editio.ssrq-online.ch/
     maxResponseTime: 45000
