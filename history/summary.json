@@ -175,17 +175,17 @@
     "url": "https://personae.ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
-    "status": "down",
-    "uptime": "97.44%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "98.84%",
+    "status": "up",
+    "uptime": "97.41%",
+    "uptimeDay": "78.71%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "98.78%",
     "time": 1172,
-    "timeDay": 906,
-    "timeWeek": 954,
-    "timeMonth": 3132,
-    "timeYear": 1273,
+    "timeDay": 858,
+    "timeWeek": 935,
+    "timeMonth": 3068,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-10-24": 557,
       "2025-11-21": 241,
@@ -208,7 +208,7 @@
       "2026-08-21": 62,
       "2026-08-28": 1040,
       "2026-08-27": 193,
-      "2026-09-11": 1
+      "2026-09-11": 307
     }
   },
   {
@@ -216,21 +216,21 @@
     "url": "https://loci.ssrq-sds-fds.ch/search/search-form.xq",
     "icon": "https://icons.duckduckgo.com/ip3/loci.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-places-db",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "78.72%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.92%",
     "time": 944,
-    "timeDay": 735,
-    "timeWeek": 922,
-    "timeMonth": 936,
+    "timeDay": 831,
+    "timeWeek": 923,
+    "timeMonth": 935,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2025-11-03": 26,
       "2026-05-22": 65,
-      "2026-09-11": 1
+      "2026-09-11": 306
     }
   },
   {
@@ -238,20 +238,20 @@
     "url": "https://termini.ssrq-sds-fds.ch/search/search-form.xq",
     "icon": "https://icons.duckduckgo.com/ip3/termini.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-lemma-db",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1382,
-    "timeDay": 1468,
-    "timeWeek": 1509,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "78.74%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.93%",
+    "time": 1383,
+    "timeDay": 1473,
+    "timeWeek": 1506,
     "timeMonth": 1477,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2026-05-22": 65,
-      "2026-09-11": 1
+      "2026-09-11": 306
     }
   },
   {
@@ -259,17 +259,17 @@
     "url": "https://p.ssrq-sds-fds.ch/loc000001",
     "icon": "https://icons.duckduckgo.com/ip3/p.ssrq-sds-fds.ch.ico",
     "slug": "resolver-for-permanent-links",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1589,
-    "timeDay": 1297,
-    "timeWeek": 1334,
-    "timeMonth": 1396,
-    "timeYear": 1432,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "78.75%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.83%",
+    "time": 1587,
+    "timeDay": 1201,
+    "timeWeek": 1309,
+    "timeMonth": 1387,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2025-09-28": 117,
       "2025-10-29": 39,
@@ -280,7 +280,7 @@
       "2025-11-04": 26,
       "2025-12-24": 44,
       "2026-05-22": 64,
-      "2026-09-11": 1
+      "2026-09-11": 306
     }
   }
 ]
