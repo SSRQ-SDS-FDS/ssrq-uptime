@@ -1,7 +1,7 @@
 url: https://personae.ssrq-sds-fds.ch
-status: up
-code: 200
-responseTime: 997
-lastUpdated: 2026-10-05T01:41:58.396Z
+status: down
+code: 502
+responseTime: 592
+lastUpdated: 2026-10-05T08:56:05.981Z
 startTime: 2024-06-23T16:47:00.423Z
 generator: Upptime <https://github.com/upptime/upptime>
