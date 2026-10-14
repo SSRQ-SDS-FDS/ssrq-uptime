@@ -14,7 +14,7 @@
     "timeDay": 997,
     "timeWeek": 1280,
     "timeMonth": 1190,
-    "timeYear": 1199,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2026-05-22": 66,
       "2026-06-07": 41
@@ -35,7 +35,7 @@
     "timeDay": 666,
     "timeWeek": 883,
     "timeMonth": 868,
-    "timeYear": 2162,
+    "timeYear": 2165,
     "dailyMinutesDown": {
       "2025-10-29": 17,
       "2025-10-30": 15,
@@ -86,9 +86,9 @@
     "url": "https://staging.editio.ssrq-online.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/staging.editio.ssrq-online.ch.ico",
     "slug": "editio-staging-the-next-version-of-editio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -106,7 +106,8 @@
       "2026-05-22": 66,
       "2026-06-07": 31,
       "2026-07-13": 157,
-      "2026-07-19": 82
+      "2026-07-19": 82,
+      "2026-10-14": 0
     }
   },
   {
@@ -124,7 +125,7 @@
     "timeDay": 656,
     "timeWeek": 930,
     "timeMonth": 856,
-    "timeYear": 852,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2026-05-22": 65,
       "2026-06-07": 26
@@ -184,7 +185,7 @@
     "timeDay": 924,
     "timeWeek": 1080,
     "timeMonth": 1658,
-    "timeYear": 1328,
+    "timeYear": 1329,
     "dailyMinutesDown": {
       "2025-10-24": 557,
       "2025-11-21": 241,
@@ -248,7 +249,7 @@
     "timeDay": 1428,
     "timeWeek": 1518,
     "timeMonth": 1428,
-    "timeYear": 1462,
+    "timeYear": 1463,
     "dailyMinutesDown": {
       "2026-05-22": 65,
       "2026-09-11": 306
@@ -269,7 +270,7 @@
     "timeDay": 1091,
     "timeWeek": 1415,
     "timeMonth": 1332,
-    "timeYear": 1312,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2025-10-29": 39,
       "2025-10-31": 88,
