@@ -176,13 +176,13 @@
     "url": "https://personae.ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
-    "status": "up",
+    "status": "down",
     "uptime": "97.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.68%",
-    "time": 1210,
+    "time": 1211,
     "timeDay": 1132,
     "timeWeek": 983,
     "timeMonth": 1649,
@@ -210,7 +210,8 @@
       "2026-08-28": 1040,
       "2026-08-27": 193,
       "2026-09-11": 307,
-      "2026-10-05": 561
+      "2026-10-05": 561,
+      "2026-10-17": 0
     }
   },
   {
