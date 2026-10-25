@@ -176,9 +176,9 @@
     "url": "https://personae.ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
-    "status": "up",
+    "status": "down",
     "uptime": "97.47%",
-    "uptimeDay": "91.67%",
+    "uptimeDay": "92.59%",
     "uptimeWeek": "97.48%",
     "uptimeMonth": "97.90%",
     "uptimeYear": "98.71%",
@@ -213,7 +213,7 @@
       "2026-10-17": 105,
       "2026-10-21": 48,
       "2026-10-20": 86,
-      "2026-10-25": 22,
+      "2026-10-25": 23,
       "2026-10-24": 97
     }
   },
