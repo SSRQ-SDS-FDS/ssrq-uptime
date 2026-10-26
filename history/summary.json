@@ -35,7 +35,7 @@
     "timeDay": 1032,
     "timeWeek": 1105,
     "timeMonth": 924,
-    "timeYear": 2159,
+    "timeYear": 2161,
     "dailyMinutesDown": {
       "2025-10-29": 17,
       "2025-10-30": 15,
@@ -176,16 +176,16 @@
     "url": "https://personae.ssrq-sds-fds.ch",
     "icon": "https://icons.duckduckgo.com/ip3/personae.ssrq-sds-fds.ch.ico",
     "slug": "ssrq-persons-db",
-    "status": "down",
-    "uptime": "97.47%",
-    "uptimeDay": "92.59%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "98.71%",
+    "status": "up",
+    "uptime": "97.46%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.69%",
     "time": 1211,
-    "timeDay": 953,
-    "timeWeek": 1012,
-    "timeMonth": 1612,
+    "timeDay": 994,
+    "timeWeek": 1007,
+    "timeMonth": 1594,
     "timeYear": 1333,
     "dailyMinutesDown": {
       "2025-11-21": 241,
@@ -213,8 +213,9 @@
       "2026-10-17": 105,
       "2026-10-21": 48,
       "2026-10-20": 86,
-      "2026-10-25": 23,
-      "2026-10-24": 97
+      "2026-10-25": 106,
+      "2026-10-24": 97,
+      "2026-10-26": 37
     }
   },
   {
@@ -275,7 +276,7 @@
     "timeDay": 1392,
     "timeWeek": 1381,
     "timeMonth": 1346,
-    "timeYear": 1324,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2025-10-29": 39,
       "2025-10-31": 88,
